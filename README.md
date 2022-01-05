@@ -12,4 +12,6 @@ materials research, although some contents and the architecture of
 [matgenb](https://github.com/materialsvirtuallab/matgenb) are referenced. Anyway, thanks should go
  to the contributors of [matgenb](https://github.com/materialsvirtuallab/matgenb).
 
-Y.-W. Fang @ Kyoto University
+Y.-W. Fang
+
+![yw-fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yw-fang&show_icons=true&theme=radical)
